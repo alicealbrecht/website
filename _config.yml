@@ -16,7 +16,7 @@ minimal_mistakes_skin    : air #"default", "air", "aqua", "contrast", "dark", "d
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alice doesn't life here anymore" # "Site Title"
+title                    : "Alice doesn't live here anymore" # "Site Title"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Alice Albrecht"
@@ -262,7 +262,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: splash
       author_profile: true
       read_time: true
       comments: # true
