@@ -3,10 +3,10 @@ main:
   - title: "About"
     url: /about/
   - title: "Data Strategy"
-     url: /data_strategy/
+    url: /data strategy/
   - title: "In the works"
-     url: /in_the_works/
+    url: /In the works/
   - title: "Areas of interest"
-     url: /areas_of_interest/
+    url: /Areas of interest/
   - title: "Contact"
-     url: /contact/
+    url: /contact/
