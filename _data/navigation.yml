@@ -4,9 +4,9 @@ main:
     url: /about/
   - title: "Data Strategy"
      url: /data_strategy/
-   - title: "In the works"
+  - title: "In the works"
      url: /in_the_works/
-   - title: "Areas of interest"
+  - title: "Areas of interest"
      url: /areas_of_interest/
-   - title: "Contact"
+  - title: "Contact"
      url: /contact/
