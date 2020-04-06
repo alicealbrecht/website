@@ -2,11 +2,11 @@
 main:
   - title: "About"
     url: /about/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Data Strategy"
+     url: /data_strategy/
+   - title: "In the works"
+     url: /in_the_works/
+   - title: "Areas of interest"
+     url: /areas_of_interest/
+   - title: "Contact"
+     url: /contact/
