@@ -10,7 +10,7 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-#theme                  : "minimal-mistakes-jekyll"
+# theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes" #Removed @4.19.1
 minimal_mistakes_skin    : air #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -21,7 +21,7 @@ title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Alice Albrecht"
 description              : "Personal website for Alice Albrecht. Maching learning strategist and cognitive neuroscientist. Trying to make things better for most humans."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io" - don't mess with this
+url                      : https://alicealbrecht.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io" - don't mess with this
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # alicealbrecht/website # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -264,7 +264,7 @@ defaults:
     values:
       layout: splash
       author_profile: true
-      read_time: true
+      read_time: false
       comments: # true
       share: true
       related: true
