@@ -11,7 +11,7 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme             : "mmistakes/minimal-mistakes" #Removed @4.19.1
+remote_theme             : "mmistakes/minimal-mistakes@4.19.2" #Removed @4.19.1
 minimal_mistakes_skin    : air #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Alice Albrecht"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Alice_headshot.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Creator of things that weren’t before. Currently starting something new with brains + machines. Lifelong scientist. I have a lot of questions."
   location         : "Brooklyn, NY"
   email            :
@@ -207,7 +207,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jemoji
   - jekyll-include-cache
 
 # mimic GitHub Pages with --safe
@@ -216,7 +215,6 @@ whitelist:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jemoji
   - jekyll-include-cache
 
 
