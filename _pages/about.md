@@ -24,7 +24,7 @@ I've been a part of building some really amazing products and seen first hand ho
 
 ## Speaking
 
-I have been speaking publicly on data, hiring (using science!), machine learning and what it all means for businesses of any size for several years. Most of my talks aren't recorded, but you can hear me on the [Develomentor podast](https://develomentor.com/2020/02/03/alice-albrecht/](https://develomentor.com/2020/02/03/alice-albrecht/). I also provide leadership education talks for companies to help them understand what's possible for them with data and machine learning. [Reach out](link to contact page) if you'd like to have me speak. 
+I have been speaking publicly on data, hiring (using science!), machine learning and what it all means for businesses of any size for several years. Most of my talks aren't recorded, but you can hear me on the [Develomentor podast](https://develomentor.com/2020/02/03/alice-albrecht/). I also provide leadership education talks for companies to help them understand what's possible for them with data and machine learning. [Reach out](link to contact page) if you'd like to have me speak. 
 
 ## Advising and mentoring
 

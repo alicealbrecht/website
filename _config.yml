@@ -16,7 +16,7 @@ minimal_mistakes_skin    : air #"default", "air", "aqua", "contrast", "dark", "d
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alice doesn't live here anymore" # "Site Title"
+title                    : "Site under construction- check back soon!" # "Site Title"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Alice Albrecht"
@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Alice Albrecht"
-  avatar           : "/assets/images/Alice_headshot.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Alice_headshot_2018.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Creator of things that weren’t before. Currently starting something new with brains + machines. Lifelong scientist. I have a lot of questions."
   location         : "Brooklyn, NY"
   email            :
