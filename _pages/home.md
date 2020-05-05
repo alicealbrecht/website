@@ -1,3 +1,4 @@
+---
 title: "home"
 path: ""
 type: pages
@@ -9,7 +10,6 @@ header:
   overlay_image: /assets/images/line_brain.jpg
 intro: 
   - excerpt: I am dedicated to using technology and data to push what's possible and equip humans to thrive in our ever-changing world. 
-
 ---
 
 {% include feature_row id="intro" type="center" %}
