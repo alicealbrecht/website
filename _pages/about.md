@@ -8,7 +8,7 @@ header:
 
 I spend a lot of my time understanding how to practically implement what’s newly possible with technology and machine learning/AI and use that understanding to help others build their businesses and inform what I build. 
 
-## [Data Strategy]({{https://www.alicealbrecht.com}}{% link _pages/data_strategy.md %})
+## [Data Strategy]({{site.url}}{% link _pages/data_strategy.md %})
 
 I've led machine learning strategy and advising for Cloudera's Fast Forward Labs, led data science for Simple Finance, and have worked to build data products at Yahoo! and JP Morgan. I’ve built and scaled out teams and products and recognize that at the end of the day the hardest problems are often those involving people rather than technology.
 
