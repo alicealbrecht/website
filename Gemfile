@@ -13,7 +13,10 @@ source "https://rubygems.org"
 
 # To upgrade, run `bundle update`.
 
-gem "github-pages","~>3.5", group: :jekyll_plugins
+gem "github-pages","~>3.5" # , group: :jekyll_plugins do
+group :jekyll_plugins do
+  gem 'jekyll-picture-tag', '~> 0.2.3'
+end
 gem "minimal-mistakes-jekyll"
 gem 'jekyll-include-cache'
 gem 'jekyll-analytics'

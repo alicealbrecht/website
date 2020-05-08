@@ -16,11 +16,11 @@ minimal_mistakes_skin    : air #"default", "air", "aqua", "contrast", "dark", "d
 
 # Site Settings
 locale                   : "en-US"
-title                    : #"" # "Site Title"
-title_separator          : "|"
+title                    : "Hi! I'm Alice." #"" # "Site Title"
+title_separator          : #"|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Alice Albrecht"
-description              : "Personal website for Alice Albrecht. Maching learning strategist and cognitive neuroscientist. Trying to make things better for most humans."
+description              : "Personal website for Alice Albrecht. Data + ML/AI strategist and cognitive neuroscientist. Trying to make things better for most humans."
 url                      : https://alicealbrecht.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io" - don't mess with this
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # alicealbrecht/website # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Alice Albrecht"
   avatar           : "/assets/images/Alice_headshot_2018.jpg" # path of avatar image
-  bio              : "Creator of things that weren’t before. Currently starting something new with brains + machines. Lifelong scientist. I have a lot of questions."
+  bio              : "Creator of things that weren’t before. Currently constulting and starting something new."
   location         : "Brooklyn, NY"
   email            :
   links:
@@ -169,7 +169,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
 # Conversion
-markdown: kramdown
+markdown: kramdown #redcarpet
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
@@ -273,7 +273,7 @@ defaults:
       path: "_pages"
       type: pages
     values:
-      layout: single
+      layout: splash
       author_profile: false
       read_time: false
       comments: # true

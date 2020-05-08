@@ -2,30 +2,32 @@
 permalink: /about/
 header:
   image: /assets/images/surreal_clouds_web.jpg
+title: "Ways I engage"
 ---
 
-# Hi, I'm Alice.
+## Ways I engage
 
-I'm interested in the way humans work, where their limits are, and how we can use the data they produce to build products and tools that can enable them to overcome those limits. 
+I spend a lot of my time understanding how to practically implement what’s newly possible with technology and machine learning/AI and use that understanding to help others build their businesses and inform what I build. 
 
-I do this in a few ways and always through the lens of understanding what the social and ethical implications are for I'm building or advising others how to build.
+## [Data Strategy]({{site.url}}{% link _pages/data_strategy.md %})
 
-I've had a few careers now, including as a cognitive neuroscientist and as a data science and machine learning specialist. I'm currently actively consulting and advising companies[hyperlink to contact] and working on building out a few of my own ideas. 
+I've led machine learning strategy and advising for Cloudera's Fast Forward Labs, led data science for Simple Finance, and have worked to build data products at Yahoo! and JP Morgan. I’ve built and scaled out teams and products and recognize that at the end of the day the hardest problems are often those involving people rather than technology.
 
-## [Data Strategy](% link _pages/strategy/ %)
+I’ve worked extensively with large enterprise corporations, start ups and even non-profits. I often say I’m “renting out my imagination” and really enjoy working with clients to uncover how they can capitalize on their current investment in data or place smart bets with data investments moving forward. It all starts with understanding what's possible using data and machine learning and then crafting a plan that will actually work. If you’re looking to hire a data consultant you can learn more [here]({{site.url}}{% link _pages/data_strategy.md %}).  
 
-I've led machine learning strategy and advising for Cloudera's Fast Forward Labs, led data science for Simple Finance, and have worked to build data products at Yahoo! and JP Morgan.
+## [Building tools to enable humans]({{site.url}}{% link _pages/projects.md %})
 
-I really enjoy working with clients to uncover how they can capitalize on their current investment in data or place smart bets with data investments moving forward. It all starts with understanding what's possible using data and machine learning and then crafting a plan that allows projects to build on one another. You can learn more [here](% link _pages/contact/ %) about what I'm up to in this space.  
-
-## Building tools to make humans better
-
-I've been a part of building some really amazing products and seen first hand how much of an impact something can have on people's daily lives. I've also seen how some of the technology we've built isn't quite meeting our vision for a utopia of augmented humans. I'm combining my experience in neuroscience, machine learning and product development to create tools that are aimed at helping humans have better interactions in a world they didn't evolve for. I'll be writing about my thoughts and mad experiments [here](% link _pages/projects/ %) as they evolve so stay tuned for what's to come.
+In my various careers to date, I've been a part of building some really amazing products and seen first hand how much of an impact something can have on people's daily lives. I've also seen how some of the technology we've built isn't quite meeting some of our vision for a better world. I'm combining my experience in cognitive neuroscience, machine learning and product development to create tools that are aimed at helping humans have better interactions in a world they didn't evolve for. I'll be writing about my thoughts and experiments [here]({{site.url}}{% link _pages/projects.md %}) as they evolve.
 
 ## Speaking
 
-I have been speaking publicly on data, hiring (using science!), machine learning and what it all means for businesses of any size for several years. Most of my talks aren't recorded, but you can hear me on the [Develomentor podast](https://develomentor.com/2020/02/03/alice-albrecht/). I also provide leadership education talks for companies to help them understand what's possible for them with data and machine learning. [Reach out](link to contact page) if you'd like to have me speak. 
+I have been speaking publicly on data, hiring (using science!), machine learning, and cognitive (neuro)science for well over a decade. Most of my talks aren't recorded or aren’t pubic, but you can check out some of the content I presented at at [NYAI](https://www.nyai.co/nyai-26-alice-albrecht/), or you can hear a recent podcast interview with me on the [Develomentor podast](https://develomentor.com/2020/02/03/alice-albrecht/). 
+
+I also provide leadership education talks for companies to help them understand what's possible for them with data and machine learning. 
 
 ## Advising and mentoring
 
-I'm a big believer that the best way to make an impact on the world is by holding others up. I spend a portion of my time advising and mentoring both formally and informally on a variety of topics. Feel free to [reach out](% link _pages/contact/ %) if you're interested.
+I'm a big believer that the best way to make an impact on the world is by holding others up. I spend a portion of my time advising and mentoring both formally and informally on a variety of topics. 
+
+If you’re interested in engaging in any of these capacities, please reach out [here]({{site.url}}{% link _pages/contact.md %}).
+
