@@ -8,7 +8,7 @@ credit_link: https://unsplash.com/@budhelisson
 credit_name: Unsplash
 ---
 
-## Let's build the future!
+# Let's build the future!
 I consult with companies big and small to plan for how data and machine learning/AI will shape their business. I also use my experience both building and advising others how to build data products to help companies integrate data into their existing product and engineering practices. 
 
 The world is changing evermore rapidly and I firmly believe that done correctly, integrating data and machine learning/AI opens up opportunities that were inconceivable a decade ago. I’ve spent years advising companies and nonprofits of all sizes how to build what’s next (or revamp what’s already here). 

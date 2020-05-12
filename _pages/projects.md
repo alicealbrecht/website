@@ -6,7 +6,7 @@ photo_credit: add
 credit_link: https://unsplash.com/@xteemu
 credit_name: Unsplash
 ---
-## Big picture
+# Big picture
 
 I may not always understand them, but I find humans fascinating. Almost all of my work and personal interests are geared toward better understanding how humans work and how technology is created and evolves to augment them. My interests typically integrate my understanding of human cognition with my experience with machine learning- and all that combination can enable. What can we build to enable humans to quickly adapt and thrive?  
 

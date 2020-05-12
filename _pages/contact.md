@@ -3,7 +3,7 @@ permalink: /contact/
 title: "Interested in learning more?"
 classes: wide
 ---
-## Interested in learning more?
+# Interested in learning more?
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/xgenerby" method="post">
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Full Name</label>
