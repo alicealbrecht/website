@@ -16,7 +16,7 @@ minimal_mistakes_skin    : air #"default", "air", "aqua", "contrast", "dark", "d
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hi! I'm Alice." #"" # "Site Title"
+title                    : "Alice Albrecht" #"" # "Site Title"
 title_separator          : #"|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Alice Albrecht"
@@ -81,7 +81,10 @@ og_image                 : # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links: 
+    - "https://twitter.com/AliceAlbrecht"
+    - "https://www.linkedin.com/in/alice-albrecht-6379868/"
+    # An array of links to social media profiles
 
 # Analytics
 analytics:
@@ -116,7 +119,10 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/AliceAlbrecht"
-    #- label: "GitHub"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/alice-albrecht-6379868"
+      #- label: "GitHub"
      # icon: "fab fa-fw fa-github"
       # url:
     #- label: "GitLab"
