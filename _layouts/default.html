@@ -31,8 +31,17 @@
 
     <div id="footer" class="page__footer">
       <footer>
-        {% include footer/custom.html %}
-        {% include_cached footer.html %}
+        {% include_cached footer.html %} 
+        {% if page.photo_credit == "add" %}
+          {% include footer/custom.html %}
+        {% endif %}
+        <!-- 
+        {% if page.add_photo_credit %}
+          {% include_cached {{ page.add_photo_credit}} credit_link = page.photo_link credit_name = page.photo_author%}
+        {% else %}
+          {% include_cached footer.html %}
+        {% endif %}
+        -->
       </footer>
     </div>
 

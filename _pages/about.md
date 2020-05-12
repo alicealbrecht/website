@@ -1,18 +1,18 @@
 ---
 permalink: /about/
 header:
-  image: /assets/images/surreal_clouds_web.jpg
+  image: /assets/images/surreal_clouds_cropped.jpg
 ---
 
 ## Ways I engage
 
 I spend a lot of my time understanding how to practically implement what’s newly possible with technology and machine learning/AI and use that understanding to help others build their businesses and inform what I build. 
 
-## [Data Strategy]({{site.url}}{% link _pages/data_strategy.md %})
+## [Consulting]({{site.url}}{% link _pages/consulting.md %})
 
 I've led machine learning strategy and advising for Cloudera's Fast Forward Labs, led data science for Simple Finance, and have worked to build data products at Yahoo! and JP Morgan. I’ve built and scaled out teams and products and recognize that at the end of the day the hardest problems are often those involving people rather than technology.
 
-I’ve worked extensively with large enterprise corporations, start ups and even non-profits. I often say I’m “renting out my imagination” and really enjoy working with clients to uncover how they can capitalize on their current investment in data or place smart bets with data investments moving forward. It all starts with understanding what's possible using data and machine learning and then crafting a plan that will actually work. If you’re looking to hire a data consultant you can learn more [here]({{site.url}}{% link _pages/data_strategy.md %}).  
+I’ve worked extensively with large enterprise corporations, start ups and even non-profits. I often say I’m “renting out my imagination” and really enjoy working with clients to uncover how they can capitalize on their current investment in data or place smart bets with data investments moving forward. It all starts with understanding what's possible using data and machine learning and then crafting a plan that will actually work. If you’re looking to hire a data consultant you can learn more [here]({{site.url}}{% link _pages/consulting.md %}).  
 
 ## [Building tools to enable humans]({{site.url}}{% link _pages/projects.md %})
 

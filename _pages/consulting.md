@@ -1,9 +1,11 @@
 ---
-permalink: /data_strategy/
+permalink: /consulting/
 title: "Let's build the future!"
 header:
-  image: /assets/images/bud-helisson-kqguzgvYrtM-unsplash.jpg
-  caption: "Photo credit: [Unsplash](https://unsplash.com/@budhelisson)"
+  image: /assets/images/bud-helisson-kqguzgvYrtM-unsplash_cropped.jpg
+photo_credit: add
+credit_link: https://unsplash.com/@budhelisson
+credit_name: Unsplash
 ---
 
 ## Let's build the future!

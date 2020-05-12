@@ -4,11 +4,9 @@ main:
     url: /
   - title: "About"
     url: /about/
-  - title: "Data Strategy"
-    url: /data_strategy/
+  - title: "Consulting"
+    url: /consulting/
   - title: "Projects"
     url: /projects/
-  - title: "Blog"
-    url: /blog/
   - title: "Contact"
     url: /contact/

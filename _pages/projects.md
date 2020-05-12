@@ -2,7 +2,9 @@
 permalink: /projects/
 header:
   image: /assets/images/teemu-paananen-OOE4xAnBhKo-unsplash_cropped.jpg
-  caption: "Photo credit: [Unsplash](https://unsplash.com/@xteemu)"
+photo_credit: add
+credit_link: https://unsplash.com/@xteemu
+credit_name: Unsplash
 ---
 ## Big picture
 
