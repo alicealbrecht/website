@@ -29,4 +29,4 @@ I offer leadership education speaking engagements as a way to equip non-experts 
  
 I offer my expertise as an advisor to startups or enterprise clients that want a longer-term partnership in any area related to data, machine learning/AI or cognitive (neuro)science.
 
-To learn more reach out [here]({{site.url}}{% link _pages/contact.md %}).
+[Learn more]({{site.url}}{% link _pages/contact.md %}).
