@@ -20,7 +20,7 @@ In my various careers to date, I've been a part of building some really amazing 
 
 ## Speaking
 
-I have been speaking publicly on data, hiring (using science!), machine learning, and cognitive (neuro)science for well over a decade. Most of my talks aren't recorded or aren’t pubic, but you can check out some of the content I presented at at [NYAI](https://www.nyai.co/nyai-26-alice-albrecht/), or you can hear a recent podcast interview with me on the [Develomentor podast](https://develomentor.com/2020/02/03/alice-albrecht/). 
+I have been speaking publicly on data, hiring (using science!), machine learning, and cognitive (neuro)science for well over a decade. Most of my talks aren't recorded or aren’t public, but you can check out some of the content I presented at at [NYAI](https://www.nyai.co/nyai-26-alice-albrecht/), or you can hear a recent podcast interview with me on the [Develomentor podast](https://develomentor.com/2020/02/03/alice-albrecht/). 
 
 I also provide leadership education talks for companies to help them understand what's possible for them with data and machine learning. 
 
