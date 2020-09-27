@@ -4,6 +4,8 @@ main:
     url: /
   - title: "About"
     url: /about/
+  - title: "Speaking and Writing"
+    url: /speaking_writing/
   - title: "Consulting"
     url: /consulting/
   - title: "Projects"
