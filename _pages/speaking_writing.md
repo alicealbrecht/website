@@ -4,7 +4,7 @@ permalink: /speaking_writing/
 ---
 ## Speaking
 
-I am available for public speaking engagements. Below are a few links to previous public talks I've given and panels I've been on. For a good list of available women and non-binary speakers also see [All Raise](https://allraise.org/visionaryvoices)
+I am available for public speaking engagements. Below are a few links to previous public talks I've given and panels I've been on. For a good list of available women and non-binary speakers also see [All Raise](https://allraise.org/visionaryvoices).
 
 ### Talks
 
